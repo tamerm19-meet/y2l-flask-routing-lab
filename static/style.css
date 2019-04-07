@@ -1,1 +1,5 @@
 /* Put your CSS Styling here! */
+body{
+ background-image: url('ghostangry.jpg');
+ background-attachment: fixed;
+}
